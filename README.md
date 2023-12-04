@@ -9,7 +9,7 @@
 
 ✅✅✅ All set ✅✅✅
 
-Play / Code / Share 😉
+Explore / Code / Share 😉
 
 #### Note: Read code comments to know more about the code 🙂
 
