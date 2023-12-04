@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bill Total Calculator</title>
+    <link href="./index.css" rel="stylesheet">
+    <script src='https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js'></script>
+</head>
+<body>
+    <button onclick="reset()">RESET</button>
+    <p>Bill Total: <span></span></p>
+    <div class="media_wrapper">
+        <video autoplay="true" width="100%"></video>
+        <img style="display: none;" src="./assets/camera.svg" onclick="takePicture()" alt="camera capture"/>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
